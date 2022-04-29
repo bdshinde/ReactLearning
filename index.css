@@ -1,0 +1,48 @@
+
+body{
+  background-color: white;
+  
+ 
+}
+#first-block{
+    background-color: lightgray;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#image{
+  margin-left: 120px;
+  
+}
+#img-caption{
+  text-align: center;
+  margin-top:8px;
+}
+#img-div{
+    
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 25px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+
+h1{
+ padding-top: 40px;
+ 
+}
+article{
+  line-height: 40px;
+  margin-top: 50px;
+  margin-left: 370px;
+  margin-right: 370px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+#more-info{
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
+p{
+line-height: 25px;  
+}
